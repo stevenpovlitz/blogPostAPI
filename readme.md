@@ -17,4 +17,3 @@ Use npm init to create it afresh.
 * Use Express router and modularize routes to /blog-posts.
 
 * Add a couple of blog posts on server load so you'll automatically have some data to look at when the server starts.
-
